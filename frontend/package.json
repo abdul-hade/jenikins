@@ -1,7 +1,7 @@
 {
-    "name": "jenkins-frontend-app",
+    "name": "dummy-frontend",
     "version": "1.0.0",
-    "description": "A simple frontend app for Jenkins testing",
+    "description": "Simple frontend app for Jenkins testing",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
